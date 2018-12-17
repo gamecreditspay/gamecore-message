@@ -23,7 +23,7 @@
     "url": "https://github.com/gamecreditspay/gamecore-message.git"
   },
   "dependencies": {
-    "gamecore-lib": "^0.13.22"
+    "gamecore-lib": "git://github.com/gamecreditspay/gamecore-lib.git"
   },
   "devDependencies": {
     "gamecore-build": "gamecreditspay/gamecore-build",
