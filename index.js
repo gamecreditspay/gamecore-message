@@ -1,4 +1,4 @@
-var litecore = require('litecore-lib');
-litecore.Message = require('./lib/message');
+var gamecore = require('gamecore-lib');
+gamecore.Message = require('./lib/message');
 
-module.exports = litecore.Message;
+module.exports = gamecore.Message;
